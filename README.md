@@ -9,13 +9,13 @@ To include these tools with Buildozer just include `androidssystemfilechooser` i
 
 
 ### API
-For now it's better if you just read the source/code.
-`JavaStream(input_stream)`
-`SystemFileChooser(mime_type, multiple)`
-`uri_to_extension(uri)`
-`uri_to_filename(uri)`
-`uri_to_stream(uri)`
-`uri_image_to_texture(uri)`
+For now it's better if you just read the source/code.  
+`JavaStream(input_stream)`  
+`SystemFileChooser(mime_type, multiple)`  
+`uri_to_extension(uri)`  
+`uri_to_filename(uri)`  
+`uri_to_stream(uri)`  
+`uri_image_to_texture(uri)`  
 
 
 ### Permissions and Runtime-permissions
