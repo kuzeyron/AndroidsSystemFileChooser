@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/AndroidsSystemFileChooser.egg-info/PKG-INFO
+src/AndroidsSystemFileChooser.egg-info/SOURCES.txt
+src/AndroidsSystemFileChooser.egg-info/dependency_links.txt
+src/AndroidsSystemFileChooser.egg-info/top_level.txt
+src/systemfilechooser/__init__.py
+src/systemfilechooser/chooser.py
+src/systemfilechooser/utils.py
