@@ -25,4 +25,5 @@ jobs:
       name: pypi
       url: https://pypi.org/p/AndroidsSystemFileChooser
     permissions:
+      contents: write
       id-token: write
