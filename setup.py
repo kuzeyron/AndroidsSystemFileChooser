@@ -1,3 +1,6 @@
 from setuptools import setup
 
-setup()
+setup(
+    name="AndroidsSystemFileChooser",
+    version="0.1.5",
+)
