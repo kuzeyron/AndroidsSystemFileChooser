@@ -1,4 +1,4 @@
-ame: PyPI release
+name: PyPI release
 
 on: [push, pull_request]
 
