@@ -1,4 +1,4 @@
-name: PyPI release
+ame: PyPI release
 
 on: [push, pull_request]
 
@@ -9,18 +9,18 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/AndroidsSystemFileChooser
+      url: https://pypi.org
     permissions:
       id-token: write
 
     steps:
     - name: Checkout source code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
 
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
-        python-version: '3.11'
+        python-version: '3.13'
 
     - name: Install build tools
       run: |
